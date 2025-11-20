@@ -1,0 +1,12 @@
+C:\Users\FER\Desktop\Curso C# Nivel 2\TPFinalNivel2_Beraudo\dominio\bin\Debug\dominio.dll
+C:\Users\FER\Desktop\Curso C# Nivel 2\TPFinalNivel2_Beraudo\dominio\bin\Debug\dominio.pdb
+C:\Users\FER\Desktop\Curso C# Nivel 2\TPFinalNivel2_Beraudo\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\FER\Desktop\Curso C# Nivel 2\TPFinalNivel2_Beraudo\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\FER\Desktop\Curso C# Nivel 2\TPFinalNivel2_Beraudo\dominio\obj\Debug\dominio.dll
+C:\Users\FER\Desktop\Curso C# Nivel 2\TPFinalNivel2_Beraudo\dominio\obj\Debug\dominio.pdb
+G:\Mi unidad\Estudio\Curso C# Nivel 3\articulos-web\dominio\bin\Debug\dominio.dll
+G:\Mi unidad\Estudio\Curso C# Nivel 3\articulos-web\dominio\bin\Debug\dominio.pdb
+G:\Mi unidad\Estudio\Curso C# Nivel 3\articulos-web\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+G:\Mi unidad\Estudio\Curso C# Nivel 3\articulos-web\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Estudio\Curso C# Nivel 3\articulos-web\dominio\obj\Debug\dominio.dll
+G:\Mi unidad\Estudio\Curso C# Nivel 3\articulos-web\dominio\obj\Debug\dominio.pdb
